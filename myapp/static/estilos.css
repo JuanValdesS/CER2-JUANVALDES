@@ -1,0 +1,10 @@
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; /* Alinea las tarjetas horizontalmente al centro */
+    align-items: center; /* Alinea las tarjetas verticalmente al centro */
+}
+
+.card {
+    margin: 10px; /* Espacio entre las tarjetas */
+}
